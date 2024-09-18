@@ -10,7 +10,7 @@ Make Facebook Home Page with Responsive and Dark Mode using TailwindCSS
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/princexz"><img src="https://avatars.githubusercontent.com/u/84660268?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Prince Solomon</h4>
+<h4 style="color:red;">Prince Solomon</h4>
 <a target="_blank"href="https://www.linkedin.com/in/princexz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:prince_solomon@yahoo.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    </td>
@@ -18,11 +18,6 @@ Make Facebook Home Page with Responsive and Dark Mode using TailwindCSS
 </tr>
 </table>
 
-## Project Contributors
-
-<a href="https://github.com/princexz/ChatApp/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=princexz/ChatApp" />
-</a>
 
 </br>
 <p align = "center">
